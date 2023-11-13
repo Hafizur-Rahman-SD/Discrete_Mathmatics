@@ -1,2 +1,2 @@
 # Discrete_Mathmatics
-here i am code some discrete mathmatics codes and other things 
+here i will store some notes of discreat mathmatics.
