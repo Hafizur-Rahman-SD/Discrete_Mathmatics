@@ -1,1 +1,1 @@
-
+Propositional logic.
