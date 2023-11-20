@@ -1,4 +1,8 @@
-//Propositional logic.
+//Propositional 
+
+
+
+logic.
 
 
 
