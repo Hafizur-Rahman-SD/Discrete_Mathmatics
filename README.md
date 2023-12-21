@@ -1,5 +1,5 @@
 //Read me 
 # Discrete_Mathmatics
-here i will store some notes of discreat mathmatics.
+Here, i will store some notes of discreat mathmatics.
 
 
